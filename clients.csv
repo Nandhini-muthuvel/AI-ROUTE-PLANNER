@@ -1,0 +1,26 @@
+Client,Address,MeetingTime,Duration
+Client 1,"1600 Amphitheatre Parkway, Mountain View, CA",9:00,60
+Client 2,"1 Infinite Loop, Cupertino, CA",9:30,45
+Client 3,"500 Terry Francois Blvd, San Francisco, CA",10:00,30
+Client 4,"1355 Market St, San Francisco, CA",10:30,60
+Client 5,"345 Spear St, San Francisco, CA",11:00,45
+Client 6,"101 Main St, Los Altos, CA",11:30,30
+Client 7,"200 Castro St, Mountain View, CA",12:00,60
+Client 8,"300 W Evelyn Ave, Sunnyvale, CA",12:30,45
+Client 9,"400 W El Camino Real, Sunnyvale, CA",13:00,30
+Client 10,"500 S Winchester Blvd, San Jose, CA",13:30,45
+Client 11,"600 N San Antonio Rd, Los Altos, CA",14:00,60
+Client 12,"700 S Bascom Ave, San Jose, CA",14:30,45
+Client 13,"800 W El Camino Real, Mountain View, CA",15:00,30
+Client 14,"900 Blossom Hill Rd, San Jose, CA",15:30,60
+Client 15,"1000 University Ave, Palo Alto, CA",16:00,45
+Client 16,"1100 Middlefield Rd, Palo Alto, CA",16:30,30
+Client 17,"1200 Rengstorff Ave, Mountain View, CA",17:00,60
+Client 18,"1300 Shoreline Blvd, Mountain View, CA",17:30,45
+Client 19,"1400 Stevens Creek Blvd, Santa Clara, CA",18:00,30
+Client 20,"1500 Great America Pkwy, Santa Clara, CA",18:30,60
+Client 21,"1600 Lafayette St, Santa Clara, CA",19:00,45
+Client 22,"1700 Mission College Blvd, Santa Clara, CA",19:30,30
+Client 23,"1800 De Anza Blvd, Cupertino, CA",20:00,45
+Client 24,"1900 N 1st St, San Jose, CA",20:30,60
+Client 25,"2000 E Brokaw Rd, San Jose, CA",21:00,45
